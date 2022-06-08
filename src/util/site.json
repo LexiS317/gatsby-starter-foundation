@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "文字仓库",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "With love.",
+    "siteUrl": "https://indexgarden.catnip.com",
+    "image": "/assets/061.jpeg",
+    "iconimage": "/assets/061.jpeg",
+    "twitterUsername": "nonono"
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "lexi"
 }
