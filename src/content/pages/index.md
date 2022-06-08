@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Alexandra（划掉）罗烽
+tagline: 职业废物
+featuredImage: /assets/051.jpg
 cta:
-  ctaText: Know more
-  ctaLink: /about
+  ctaText: 点我听森林的声音
+  ctaLink: https://www.tree.fm/
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+还活着，其实我不知道这个介绍部分有什么好写的，反正就是暂时懒得改排版
