@@ -8,7 +8,7 @@ import Theme from "../components/theme"
 const MenuItems = [
   {
     path: "/",
-    title: "Home",
+    title: "主页",
   },
 //   {
 //     path: "/about",
@@ -16,7 +16,7 @@ const MenuItems = [
 //   },
   {
     path: "/blog",
-    title: "Blog",
+    title: "同人文",
   },
 //   {
 //     path: "/contact",
