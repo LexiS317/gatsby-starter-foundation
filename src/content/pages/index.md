@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: ~~Alexandra~~罗烽
+title: 乐栖
 tagline: 职业废物
-featuredImage: /assets/051.jpg
+featuredImage: /assets/0009.jpeg
 cta:
-  ctaText: 点我听森林的声音
+  ctaText: 森林の音
   ctaLink: https://www.tree.fm/
 ---
-还活着，其实我不知道这个介绍部分有什么好写的，反正就是暂时懒得改排版
+布袋戏深坑中，时不时会爬上来看看假面骑士，日常口嗨，电脑里一堆写一半的黄文（因为总是写着写着就萎了，所以就搁置了）
