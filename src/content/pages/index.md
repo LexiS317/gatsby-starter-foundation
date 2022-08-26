@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: Alexandra（划掉）罗烽
+title: ~~Alexandra~~罗烽
 tagline: 职业废物
 featuredImage: /assets/051.jpg
 cta:
